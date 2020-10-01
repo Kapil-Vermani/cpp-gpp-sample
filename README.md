@@ -1,2 +1,2 @@
 # cpp-gpp-sample
-## A C++ code sample to compile with g++ and GNU Make
+## A C++ code example to demonstrate how to retrieve prime numbers  between given range.This project is compiled with g++ and GNU Make
